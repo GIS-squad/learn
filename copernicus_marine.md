@@ -39,6 +39,8 @@ Most relevant options for download `dataset_id`, `filter`, `username`, `password
 
 Don't use `force_download` as it has been deprecated in 2.0 and data sizes are very large!!
 
+In [get.py](/copernicus_marine/get.py) we download some sea current data for the entire world on 2023/12/1 which is about 1.9GB of data.
+
 ## Netcdf-HDF5
 
 Almost all the data URLs are to time-chunked or geo-chunked object data stores using zarr for chunking. 
