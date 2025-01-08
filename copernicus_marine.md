@@ -139,7 +139,7 @@ map = Basemap(projection='merc', llcrnrlon=-15, llcrnrlat=30, urcrnrlon=15, urcr
 
 ![Currents at surface](/copernicus_marine/currents_0.png)
 
-Note the difference in resolution of the basemap between `i` (intermediate on the right) and `c` (crude on the left)
+Note the difference in resolution of the basemap between `i` (intermediate on the left) and `c` (crude on the right)
 
 ![Currents at 2km depth](/copernicus_marine/currents_40.png)
 
