@@ -1,7 +1,8 @@
--*- mode: org -*-
-#+STARTUP: fold
-Title: Copernicus Marine
-Format: markdown
+<!-- -*- mode: org -*-
+#+STARTUP: fold -->
+
+<!-- Title: Copernicus Marine
+Format: markdown -->
 
 * [Contents](#Contents){#Contents}
 - [Copernicus Marine Toolbox](#Copernicus-Marine-Toolbox)
